@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+alembic
+pydantic-settings
+email-validator
+python-jose[cryptography]
+bcrypt
+python-dotenv
+python-multipart
+slowapi
+boto3
